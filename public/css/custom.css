@@ -1,0 +1,84 @@
+#wrapper {
+	min-height: 600px;
+}
+
+#wrapper h1 {
+	color:red;
+}
+
+td {
+	color: white;
+}
+
+.slider-wrapper, #paginate {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.categories-wrapper {
+
+}
+
+#ourserv p, footer p , #singlepost p{
+	color:white;
+}
+
+#singlepost p {
+	font-size: 150%;
+	margin:30px 0;
+}
+
+#ourserv img {
+	max-width: 100%;
+}
+
+.categories-wrapper li {
+	border:1px solid red;
+	border-radius: 5px;
+	font-size: 180%;
+	padding: 5px 15px 5px 15px;
+	color:white;
+}
+
+#articles p {
+	color:white;
+}
+
+#galery-admin img {
+	max-height: 100px;
+}
+
+#adminUsers option {
+	color:black;
+}
+
+#paginate li {
+	cursor: pointer;
+}
+
+.comment {
+	border:1px solid white;
+	border-radius: 5px;
+	margin-bottom: 8px;
+}
+
+.comment p {
+	color:white;
+}
+
+#list-textareas .textareas {
+	min-height: 150px;
+}
+
+#footerLinks li a{
+	color: white;
+}
+
+#bio {
+	color: white;
+}
+
+/*#articles img {
+	max-width: 500px;
+}*/
